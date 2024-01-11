@@ -1,1 +1,2 @@
 # Dog-Image-Generator
+This code snippet fetches a random dog image from the Dog CEO API when a button is clicked. It then sets the source of an image element to the fetched image URL and logs the URL to the console.
